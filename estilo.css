@@ -1,0 +1,222 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+body{
+	margin: 0;
+}
+.topo{
+	width: 100%;
+	height: 90px;
+	margin: auto;
+}
+.menuinterno{
+	width: 100%;
+	max-width: 1000px;
+	margin:auto;
+}
+.logo{
+	float: left;
+	font-size: 24px;
+	text-transform: uppercase;
+	line-height: 90px;
+	font-weight: bold;
+}
+.icone i{
+	float: right;
+	line-height: 87px;
+	margin-right: 10px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+.menu{
+	float: right;
+}
+.menu ul,
+.menu li{
+	line-height: 90px;
+	margin: 0;
+	padding: 0;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 14px;
+	list-style: none;
+	cursor: pointer;
+}
+.banner{
+	width: 100%;
+	height: 700px;
+	background-image: url(img/banner.jpg);
+}
+.bannerinterno{
+	width: 100%;
+	max-width: 1000px;
+	margin:auto;
+}
+.texto{
+	float: left;
+}
+.titulo{
+	font-size: 24px;
+	color: #fff;
+	margin-top: 180px;
+	font-weight: 300;
+}
+.subtitulo{
+	font-size: 60px;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 40px;
+}
+.botao{
+	height: 70px;
+	width: 170px;
+	background-color: #e92121;
+	text-align: center;
+	line-height: 70px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-top: 48px;
+}
+.botao2{
+	height: 70px;
+	width: 208px;
+	text-align: center;
+	line-height: 70px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+	margin-left: 192px;
+	margin-top: -70px;
+	border-style: solid;
+	border-color: #fff;
+	border-radius: 5px;
+}
+.conteudo{
+	width: 100%;
+	height: 586px;
+}
+.conteudointerior{
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+}
+.textos{
+    float: left;
+    width: 50%;
+}
+.texto1{
+	margin-top: 200px;
+	font-size: 48px;
+	font-weight: bold;
+	color: #464646;
+	text-transform: uppercase;
+	padding: auto;
+}
+.texto2{
+	margin-top: 100px;
+	font-size: 16px;
+	color: #464646;
+	font-weight: 300;
+	text-align: justify;
+	color: #464646;
+	padding: auto;
+}
+.conteudo2{
+	width: 100%;
+	height: 870px;
+	background: #faf9f9;
+}
+.conteudointerior2{
+	width: 100%;
+	max-width: 1000px;
+	margin:auto;
+}
+.meio{
+	height: 300px;
+}
+.titulomeio{
+	font-size: 30px;
+	font-weight: bold;
+	color: #464646;
+	line-height: 170px;
+	text-align: center;
+}
+.separador{
+	text-align: center;
+	margin-top: -45px;
+}
+.subtitulomeio{
+	font-size: 18px;
+	font-weight: 300;
+	color: #464646;
+	text-align: center;
+	margin-top: 20px;
+}
+.coluna{
+    float: left;
+    width: 33.33%;
+    height: 300px; 
+}
+.textoicone{
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 28px;
+}
+.subtextoicone{
+	font-size: 16px;
+	font-weight: 300;
+	margin-top: 20px;
+}
+footer{
+	width: 100%;
+	height: 340px;
+	background-color: #141414;
+}
+.footermeio{
+	width: 100%;
+	max-width: 1000px;
+	margin:auto;
+}
+.logofooter{
+	font-size: 24px;
+	text-transform: uppercase;
+	line-height: 90px;
+	font-weight: bold;
+	color: #fff;
+}
+.colunafooter{
+	float: left;
+	margin-top: 45px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.textofooter{
+	font-size: 16px;
+	font-weight: 300;
+	color: #474747;
+	line-height: 30px;
+}
+.iconefooter{
+	float: right;
+	margin-top: -60px;
+	color: #fff;
+}
+.iconefooter i{
+	font-size: 24px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.copy{
+	float: right;
+	margin-top: 45px;
+}
+.textocopy{
+	font-size: 16px;
+	font-weight: 300;
+	color: #474747;
+	line-height: 30px;
+}
