@@ -1,6 +1,6 @@
 
 Autor: Caio Duarte
 
-Template Photoshop JEWELERY 
+Projeto desenvolvido a partir de um Template Photoshop JEWELERY 
 
 Tecnologia: HTML e CSS
